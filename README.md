@@ -24,7 +24,7 @@
   <img src="https://github.com/nikita-496/nikita-496/blob/master/assets/html.png" height=40 hspace=10>
   <img src="https://github.com/nikita-496/nikita-496/blob/master/assets/css.png" height=40 hspace=10>
   <img src="https://github.com/nikita-496/nikita-496/blob/master/assets/sass.png" height=40 hspace=10>
-  <img src="https://github.com/nikita-496/nikita-496/blob/master/assets/material-ui.png" height=40 hspace=10>
+  <img src="https://github.com/nikita-496/nikita-496/blob/master/assets/material-ui.png" height=60 hspace=10>
   <img src="https://github.com/nikita-496/nikita-496/blob/master/assets/nodejs.png" height=40 hspace=10>
 </p>
 
