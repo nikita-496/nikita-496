@@ -38,3 +38,8 @@
   <img src="https://github.com/nikita-496/nikita-496/blob/master/assets/github2.png" height=40 hspace=10>
   <img src="https://github.com/nikita-496/nikita-496/blob/master/assets/gitlub.svg" height=40 hspace=10>
 </p>
+
+<br>
+
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=nikita-496&theme=halloween)](https://git.io/streak-stats)
